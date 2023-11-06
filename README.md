@@ -145,6 +145,9 @@ For the fire department operations, the following recommendations are made:
 Rerferenecs:
 
 https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/Emergency-responders/osNFIRSIncidentType.ashx?la=en
+
 https://data.boston.gov/dataset/fire-incident-reporting
+
 https://media.licdn.com/dms/document/media/D561FAQEgD2O3YbepWA/feedshare-document-pdf-analyzed/0/1698744569805?e=1700092800&v=beta&t=8Q68cJPHIlZgwIIesWBgQl7TKT3NLAr7Sn6HtHEwxas
+
 https://www.mass.gov/doc/2013-suffolk-county/download
