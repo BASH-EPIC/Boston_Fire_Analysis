@@ -36,7 +36,9 @@ Descriptive analysis was conducted to understand the distribution and frequency 
 This included:
 <img width="677" alt="Screenshot 2023-11-05 at 10 19 47 PM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/db76371b-d5ed-42a0-a4dc-1283dba09abd">
 
-<img width="728" alt="Screenshot 2023-11-05 at 10 20 04 PM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/cd4d94fa-7b71-435d-9cae-598963d3bb3e">
+<img width="808" alt="Screenshot 2023-11-06 at 10 16 23 AM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/f52b819b-a17c-4670-a9c7-85d3666e6507">
+
+
 Output Explanation:
 The output of the code consists of two maps:
 
