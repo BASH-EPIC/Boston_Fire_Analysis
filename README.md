@@ -34,7 +34,7 @@ The dataset was cleansed to ensure quality and consistency:
 Descriptive analysis was conducted to understand the distribution and frequency of incidents.
 - Geographical distribution mapping of Series 100 (fire incidents) and Series 500 (service calls) for the year 2022.
 This included:
-<img width="677" alt="Screenshot 2023-11-05 at 10 19 47 PM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/db76371b-d5ed-42a0-a4dc-1283dba09abd">
+<img width="722" alt="image" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/7d92ab70-5700-42c0-8c34-bacdccfd7a74">
 
 <img width="808" alt="Screenshot 2023-11-06 at 10 16 23 AM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/f52b819b-a17c-4670-a9c7-85d3666e6507">
 
