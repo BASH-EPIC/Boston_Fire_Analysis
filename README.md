@@ -104,7 +104,7 @@ The Night has the least number of incidents.
 This chart could be valuable for emergency services and city planners to allocate resources appropriately, as it indicates that incidents are more likely to happen during the daytime, with a peak in the afternoon. It could suggest that increased activity during these times, such as traffic, business operations, and human interactions, could contribute to a higher likelihood of incidents. Knowing this, one could argue for a greater allocation of resources during these peak times to manage and respond to incidents more effectively.
 
 It's also shown, as most of the incidents occurred during cooking fires or building fires.
-<img width="1180" alt="image" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/2b9268f4-1985-4250-9f12-8eba1c838361">
+<img width="1162" alt="image" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/cbc11ff0-e796-41cb-a326-0aba59a08bf4">
 
 the following fig. depicts the comparisons of 2019 to 2022 years, top incidents which was increased over the years
 <img width="1171" alt="image" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/80785688-a1b7-431d-b3d0-4bfa9fa94488">
@@ -153,7 +153,5 @@ Rerferenecs:
 https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/Emergency-responders/osNFIRSIncidentType.ashx?la=en
 
 https://data.boston.gov/dataset/fire-incident-reporting
-
-https://media.licdn.com/dms/document/media/D561FAQEgD2O3YbepWA/feedshare-document-pdf-analyzed/0/1698744569805?e=1700092800&v=beta&t=8Q68cJPHIlZgwIIesWBgQl7TKT3NLAr7Sn6HtHEwxas
 
 https://www.mass.gov/doc/2013-suffolk-county/download
