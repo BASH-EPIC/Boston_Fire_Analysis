@@ -92,7 +92,7 @@ This image displays a scatter plot titled "Property Loss by Incident Type". Each
 The plot shows that most incident types are clustered at the lower end of property loss, close to zero. However, there are a few outliers that have resulted in significantly higher property losses, denoted by the dots that are further up on the vertical axis.
 
 ![image](https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/1ab86708-4285-447e-9124-220c0e531384)
-<img width="852" alt="Screenshot 2023-11-05 at 10 28 35 PM" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/21aa7253-3e4a-4858-bf36-50383ffbd375">
+<img width="887" alt="image" src="https://github.com/BASH-EPIC/Boston_Fire_Analysis/assets/81670865/f829d267-75cb-44de-b3f3-7a82725490cd">
 We'll I concat these data and craeted feature, as it's shown at upperside.
 The image shows a bar chart representing the "Number of Incidents by Time of Day." There are four categories of the time of day: Morning, Afternoon, Evening, and Night. The vertical axis indicates the number of incidents, while the horizontal axis categorizes the time of day.
 
